@@ -19,3 +19,11 @@ A demo Quotes REST API using Node.js and PostgreSQL. Built with Express Js for t
 At: [https://nodejs-postgresql.vercel.app/quotes](https://nodejs-postgresql.vercel.app/quotes)
 
 
+TLDR; quick rundown
+All the code shown above is in a public GitHub repository, to quickly get started with what has already been built you can follow the steps below:
+
+Clone the repository with: git clone git@github.com:geshan/nodejs-posgresql.git
+Then run cd nodejs-postgresql
+Subsequently, execute: npm install && npm start
+After that, hit: https://localhost:3000/quotes on your favorite browser
+You should see the following on your browser:
